@@ -1,0 +1,20 @@
+<!-product.php ->
+<h3>New Product</h3>
+<form action= product.php"
+ method="post">
+«div class='mb-3'>
+<label for="item_name"" class="form-
+label" >Product Name</label>
+<input type="text" id="new product" 
+required name= "new product"
+ class= "form-control" >
+</div>
+<div class="mb-3">
+<label for="item_price" class="form-label">Product Price</label>
+<input types="text" required
+id="newitem_price" name="newitem_price"
+class= "form-control">
+</div>
+<input type="submit" class="btn btn-
+primary">
+</form>
